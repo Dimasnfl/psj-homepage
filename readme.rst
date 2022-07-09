@@ -2,4 +2,4 @@
 DESCRIPTION
 ###################
 
-Halaman home aplikasi psj
+Halaman landingpage aplikasi psj
